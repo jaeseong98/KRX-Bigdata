@@ -4,7 +4,7 @@
 ## 부동산과 주식의 만남, 부동산 뉴스 심리지수와 주식정보를 결합한 상장리츠 등락예측 모델 개발
 
 ### 0. 모델 활용 예시 - Dashboard
-![리츠 이미지 5](https://user-images.githubusercontent.com/93076425/181441057-32208f8d-4253-496f-804e-afed34fbf91a.png)
+<img width="1439" alt="12  대시보드 예시" src="https://user-images.githubusercontent.com/93076425/188764647-eece6df8-de9f-4047-a28a-eed497f5ed2b.png">
 ### 1.아이디어 개요
 - 상장리츠 시장에 주식특성과 부동산 특성을 모두 반영한 정보 서비스가 없다는 점에서 착안하여, 해당 문제를 해결하고자 이번 프로젝트를 진행하게 되었습니다. 
 
